@@ -1,3 +1,3 @@
 $User = "cksingh"
-$Password = "test@123"
+$Password = "test@12"
 az login -user $User -password $Password
